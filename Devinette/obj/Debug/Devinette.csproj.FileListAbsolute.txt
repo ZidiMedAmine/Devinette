@@ -1,0 +1,9 @@
+C:\Users\ASUS\Desktop\VS\Depot\Devinette\Devinette\bin\Debug\Devinette.exe.config
+C:\Users\ASUS\Desktop\VS\Depot\Devinette\Devinette\bin\Debug\Devinette.exe
+C:\Users\ASUS\Desktop\VS\Depot\Devinette\Devinette\bin\Debug\Devinette.pdb
+C:\Users\ASUS\Desktop\VS\Depot\Devinette\Devinette\obj\Debug\Devinette.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\VS\Depot\Devinette\Devinette\obj\Debug\Devinette.Form1.resources
+C:\Users\ASUS\Desktop\VS\Depot\Devinette\Devinette\obj\Debug\Devinette.Properties.Resources.resources
+C:\Users\ASUS\Desktop\VS\Depot\Devinette\Devinette\obj\Debug\Devinette.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\VS\Depot\Devinette\Devinette\obj\Debug\Devinette.exe
+C:\Users\ASUS\Desktop\VS\Depot\Devinette\Devinette\obj\Debug\Devinette.pdb
